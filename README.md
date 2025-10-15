@@ -143,9 +143,13 @@ text
 
 ##📊 Final Summary Report
 Total files processed : 16
+
 Average WER (Whisper vs GT)   = 50.71%
+
 Average WER (Vosk vs GT)      = 68.60%
+
 Average WER (Vosk vs Whisper) = 56.25%
+
 Overall Better STT             = Whisper ✅ Better on average
 
 ## License
