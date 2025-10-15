@@ -101,19 +101,25 @@ text
 
 project-root/
 ├── app.py
+
 ├── summarization.py
-├── summary.py
-├── ... (utility scripts)
+
 ├── requirements.txt
+
 ├── README.md
-├── dataset/ # optional, small test audio
+
+├── dataset/ # optional, 
+
 ├── sessions/ # saved session output
+
 ├── Evaluation report/
+
 ├── model/ # NOT included in repo; instruct users to download
+
 ├── stt_outputs/
+
 ├── ...
 
-text
 
 ---
 
